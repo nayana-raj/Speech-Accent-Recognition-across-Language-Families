@@ -1,0 +1,594 @@
+age,age_onset,birthplace,filename,native_language,sex,speakerid,country,l2_acq
+20,5.0,"addis ababa, ethiopia",amharic1,amharic,female,6,ethiopia,15.0
+28,6.0,"addis ababa, ethiopia",amharic13,amharic,female,1131,ethiopia,22.0
+31,12.0,"addis ababa, ethiopia",amharic14,amharic,male,1515,ethiopia,19.0
+23,6.0,"addis ababa, ethiopia",amharic15,amharic,male,1516,ethiopia,17.0
+36,11.0,"werder, ethiopia",amharic16,amharic,male,1854,ethiopia,25.0
+20,2.0,"addis ababa, ethiopia",amharic18,amharic,female,2017,ethiopia,18.0
+23,7.0,"arba minch, ethiopia",amharic2,amharic,male,7,ethiopia,16.0
+52,24.0,"addis ababa, ethiopia",amharic20,amharic,female,2135,ethiopia,28.0
+27,8.0,"addis ababa, ethiopia",amharic3,amharic,male,8,ethiopia,19.0
+31,7.0,"addis ababa, ethiopia",amharic5,amharic,male,10,ethiopia,24.0
+31,4.0,"addis ababa, ethiopia",amharic6,amharic,female,985,ethiopia,27.0
+38,13.0,"addis ababa, ethiopia",amharic7,amharic,male,989,ethiopia,25.0
+30,12.0,"addis ababa, ethiopia",amharic8,amharic,female,990,ethiopia,18.0
+40,12.0,"addis ababa, ethiopia",amharic9,amharic,male,991,ethiopia,28.0
+38,12.0,"riyadh, saudi arabia",arabic1,arabic,female,11,saudi arabia,26.0
+26,5.0,"cairo, egypt",arabic10,arabic,male,12,egypt,21.0
+40,10.0,"beirut, lebanon",arabic100,arabic,female,2159,lebanon,30.0
+22,3.0,"jiddah, saudi arabia",arabic102,arabic,male,2161,saudi arabia,19.0
+30,14.0,"monastir, tunisia",arabic11,arabic,female,13,tunisia,16.0
+32,11.0,"baghdad, iraq",arabic12,arabic,male,14,iraq,21.0
+47,11.0,"amman, jordan",arabic14,arabic,male,428,jordan,36.0
+35,15.0,"settat, morocco",arabic17,arabic,male,512,morocco,20.0
+43,18.0,"khouribga, morocco",arabic19,arabic,male,625,morocco,25.0
+18,2.5,"damascus, syria",arabic2,arabic,male,16,syria,15.5
+36,12.0,"chtaura, beqa valley, lebanon",arabic20,arabic,male,643,lebanon,24.0
+46,30.0,"beirut, lebanon",arabic21,arabic,female,670,lebanon,16.0
+42,13.0,"al mahalla, egypt",arabic23,arabic,male,927,egypt,29.0
+40,7.0,"cairo, egypt",arabic24,arabic,male,970,egypt,33.0
+38,5.0,"ramun, israel (occupied territory)",arabic25,arabic,male,1011,israel (occupied territory),33.0
+43,14.0,"amman, jordan",arabic26,arabic,female,1012,jordan,29.0
+70,10.0,"jerusalem, israel",arabic27,arabic,male,1013,israel,60.0
+30,12.0,"al-ayn, united arab emirates",arabic28,arabic,male,1115,united arab emirates,18.0
+24,9.0,"doha, qatar",arabic3,arabic,male,17,qatar,15.0
+47,12.0,"baghdad, iraq",arabic31,arabic,female,1181,iraq,35.0
+42,12.0,"baghdad, iraq",arabic32,arabic,male,1203,iraq,30.0
+28,11.0,"baghdad, iraq",arabic33,arabic,female,1204,iraq,17.0
+34,6.0,"kuwait city, kuwait",arabic34,arabic,female,1253,kuwait,28.0
+56,16.0,"jiddah, saudi arabia",arabic35,arabic,male,1391,saudi arabia,40.0
+36,6.0,"jiddah, saudi arabia",arabic36,arabic,male,1392,saudi arabia,30.0
+22,5.0,"jiddah, saudi arabia",arabic39,arabic,male,1405,saudi arabia,17.0
+25,7.0,"riyadh, saudi arabia",arabic41,arabic,male,1421,saudi arabia,18.0
+29,8.0,"beirut, lebanon",arabic43,arabic,female,1426,lebanon,21.0
+29,7.0,"jiddah, saudi arabia",arabic44,arabic,female,1455,saudi arabia,22.0
+32,12.0,"fort collins, colorado, usa",arabic45,arabic,female,1456,usa,20.0
+28,13.0,"jiddah, saudi arabia",arabic46,arabic,male,1457,saudi arabia,15.0
+39,16.0,"jiddah, saudi arabia",arabic47,arabic,male,1458,saudi arabia,23.0
+29,12.0,"mecca, saudi arabia",arabic48,arabic,male,1459,saudi arabia,17.0
+26,8.0,"medina, saudi arabia",arabic49,arabic,male,1460,saudi arabia,18.0
+36,17.0,"rabat, morocco",arabic53,arabic,male,1526,morocco,19.0
+22,7.0,"baghdad, iraq",arabic54,arabic,male,1565,iraq,15.0
+70,33.0,"beirut, lebanon",arabic55,arabic,male,1569,lebanon,37.0
+43,12.0,"ain defla, algeria",arabic56,arabic,male,1677,algeria,31.0
+34,9.0,"baghdad, iraq",arabic58,arabic,male,1700,iraq,25.0
+55,9.0,"irbid, jordan",arabic59,arabic,male,1702,jordan,46.0
+60,14.0,"cairo, egypt",arabic60,arabic,male,1711,egypt,46.0
+28,10.0,"bani walid, libya",arabic63,arabic,female,1769,libya,18.0
+23,6.0,"riyadh, saudi arabia",arabic64,arabic,male,1777,saudi arabia,17.0
+32,10.0,"samail, oman",arabic65,arabic,female,1778,oman,22.0
+50,14.0,"medina, saudi arabia",arabic66,arabic,male,1784,saudi arabia,36.0
+43,22.0,"nasriah, iraq",arabic67,arabic,male,1785,iraq,21.0
+55,15.0,"kerma, sudan",arabic69,arabic,female,1810,sudan,40.0
+47,16.0,"casablanca, morocco",arabic70,arabic,male,1827,morocco,31.0
+47,7.0,"nazareth, israel",arabic73,arabic,female,1841,israel,40.0
+26,2.0,"riyadh, saudi arabia",arabic75,arabic,female,1885,saudi arabia,24.0
+25,4.0,"jiddah, saudi arabia",arabic76,arabic,male,1892,saudi arabia,21.0
+19,3.0,"washington, district of columbia, usa",arabic78,arabic,female,1897,usa,16.0
+42,12.0,"damascus, syria",arabic82,arabic,male,1917,syria,30.0
+28,3.0,"cairo, egypt",arabic86,arabic,male,1964,egypt,25.0
+49,10.0,"kuwait city, kuwait",arabic87,arabic,female,2005,kuwait,39.0
+19,4.0,"beirut, lebanon",arabic88,arabic,female,2008,lebanon,15.0
+35,19.0,"baghdad, iraq",arabic89,arabic,female,2022,iraq,16.0
+28,4.0,"jerusalem, israel",arabic9,arabic,female,23,israel,24.0
+57,12.0,"riyadh, saudi arabia",arabic91,arabic,female,2086,saudi arabia,45.0
+36,10.0,"baghdad, iraq",arabic92,arabic,male,2087,iraq,26.0
+27,10.0,"baghdad, iraq",arabic93,arabic,female,2112,iraq,17.0
+24,9.0,"abu dhabi, united arab emirates",arabic94,arabic,female,2114,united arab emirates,15.0
+31,10.0,"kuwait city, kuwait",arabic95,arabic,female,2143,kuwait,21.0
+19,4.0,"sharjah, united arab emirates",arabic97,arabic,female,2154,united arab emirates,15.0
+19,4.0,"ras al khaimah, united arab emirates",arabic98,arabic,female,2155,united arab emirates,15.0
+18,3.0,"dhaka, bangladesh",bengali10,bengali,female,1009,bangladesh,15.0
+34,3.5,"durgapur, west bengal, india",bengali11,bengali,male,1018,india,30.5
+25,4.0,"sylhet, bangladesh",bengali12,bengali,female,1682,bangladesh,21.0
+33,10.0,"dhaka, bangladesh",bengali13,bengali,female,1825,bangladesh,23.0
+26,4.0,"kolkata, india",bengali14,bengali,male,1973,india,22.0
+46,8.0,"dhaka, bangladesh",bengali15,bengali,female,2004,bangladesh,38.0
+24,6.0,"dhaka, bangladesh",bengali16,bengali,female,2073,bangladesh,18.0
+25,2.0,"lusaka, zambia",bengali2,bengali,female,35,zambia,23.0
+24,6.0,"chittagong, bangladesh",bengali4,bengali,male,37,bangladesh,18.0
+40,5.0,"dhaka, bangladesh",bengali5,bengali,female,622,bangladesh,35.0
+29,4.0,"jamshedpur, jharkhand, india",bengali6,bengali,male,624,india,25.0
+49,6.0,"mymensingh, bangladesh",bengali7,bengali,male,710,bangladesh,43.0
+54,5.0,"noakhali, bangladesh",bengali8,bengali,male,709,bangladesh,49.0
+61,12.0,"kolkata, india",bengali9,bengali,female,987,india,49.0
+30,9.0,"sofia, bulgaria",bulgarian12,bulgarian,female,1446,bulgaria,21.0
+46,30.0,"sofia, bulgaria",bulgarian14,bulgarian,male,1611,bulgaria,16.0
+21,6.0,"kyustendil, bulgaria",bulgarian16,bulgarian,male,1880,bulgaria,15.0
+31,9.0,"sofia, bulgaria",bulgarian17,bulgarian,female,1915,bulgaria,22.0
+27,10.0,"sofia, bulgaria",bulgarian3,bulgarian,male,42,bulgaria,17.0
+27,11.0,"ruse, bulgaria",bulgarian6,bulgarian,male,557,bulgaria,16.0
+31,8.0,"sofia, bulgaria",bulgarian8,bulgarian,female,848,bulgaria,23.0
+31,10.0,"ruse, bulgaria",bulgarian9,bulgarian,female,923,bulgaria,21.0
+25,3.0,"xiamen, fujian, china",cantonese10,cantonese,female,505,china,22.0
+22,3.0,"hong kong, china",cantonese11,cantonese,female,544,china,19.0
+20,4.0,"macau, china",cantonese12,cantonese,female,602,china,16.0
+21,3.0,"hong kong, china",cantonese13,cantonese,female,730,china,18.0
+19,3.0,"hong kong, china",cantonese14,cantonese,female,742,china,16.0
+31,12.0,"qingyuan, guangdong, china",cantonese15,cantonese,female,862,china,19.0
+29,3.0,"hong kong, china",cantonese16,cantonese,female,874,china,26.0
+26,3.0,"hong kong, china",cantonese17,cantonese,female,878,china,23.0
+19,3.0,"hong kong, china",cantonese18,cantonese,male,885,china,16.0
+28,7.0,"hong kong, china",cantonese19,cantonese,female,1247,china,21.0
+18,3.0,"hong kong, china",cantonese20,cantonese,male,1480,china,15.0
+30,3.0,"hong kong, china",cantonese22,cantonese,female,1974,china,27.0
+33,6.0,"hong kong, china",cantonese23,cantonese,male,1975,china,27.0
+22,6.0,"hong kong, china",cantonese3,cantonese,male,47,china,16.0
+29,13.0,"fuzhou, fujian, china",cantonese4,cantonese,female,48,china,16.0
+25,5.0,"hong kong, china",cantonese6,cantonese,male,462,china,20.0
+31,4.0,"hong kong, china",cantonese7,cantonese,male,494,china,27.0
+23,2.0,"hong kong, china",cantonese8,cantonese,female,498,china,21.0
+22,7.0,"hong kong, china",cantonese9,cantonese,male,502,china,15.0
+38,13.0,"nijmegen, netherlands",dutch1,dutch,male,57,netherlands,25.0
+39,12.0,"essen, belgium",dutch10,dutch,male,913,belgium,27.0
+41,14.0,"brugge, belgium",dutch11,dutch,male,929,belgium,27.0
+36,10.0,"oosterbeek, netherlands",dutch12,dutch,male,956,netherlands,26.0
+33,10.0,"zwolle, netherlands",dutch13,dutch,female,1003,netherlands,23.0
+35,12.0,"zwolle, netherlands",dutch14,dutch,female,1004,netherlands,23.0
+41,14.0,"amsterdam, netherlands",dutch2,dutch,male,58,netherlands,27.0
+29,7.0,"ede, netherlands",dutch29,dutch,male,1300,netherlands,22.0
+25,9.0,"dordrecht, netherlands",dutch40,dutch,male,1484,netherlands,16.0
+41,13.0,"deventer, netherlands",dutch41,dutch,male,1517,netherlands,28.0
+36,8.0,"schiedam, netherlands",dutch42,dutch,male,1551,netherlands,28.0
+22,2.0,"sint niklaas, belgium",dutch45,dutch,male,1742,belgium,20.0
+37,11.0,"gouda, netherlands",dutch47,dutch,female,2115,netherlands,26.0
+54,13.0,"rotterdam, netherlands",dutch5,dutch,female,770,netherlands,41.0
+46,10.0,"brussels, belgium",dutch6,dutch,female,847,belgium,36.0
+68,10.0,"amsterdam, netherlands",dutch7,dutch,male,895,netherlands,58.0
+35,12.0,"alphen aan de ryn, netherlands",dutch8,dutch,female,896,netherlands,23.0
+68,12.0,"almelo, netherlands",dutch9,dutch,female,897,netherlands,56.0
+45,10.0,"tehran, iran",farsi10,farsi,female,453,iran,35.0
+32,4.0,"kabul, afghanistan",farsi11,farsi,female,1015,afghanistan,28.0
+42,11.0,"kerman, iran",farsi12,farsi,male,1112,iran,31.0
+37,12.0,"ghasreshirin, iran",farsi13,farsi,male,1378,iran,25.0
+52,6.0,"bethesda, maryland, usa",farsi14,farsi,female,1572,usa,46.0
+20,4.0,"tehran, iran",farsi15,farsi,male,1598,iran,16.0
+54,38.0,"abadan, iran",farsi16,farsi,female,1623,iran,16.0
+63,27.0,"tehran, iran",farsi19,farsi,female,1936,iran,36.0
+34,18.0,"esfahan, iran",farsi2,farsi,female,169,iran,16.0
+48,19.0,"mazare sharif, afghanistan",farsi20,farsi,female,1993,afghanistan,29.0
+20,5.0,"kabul, afghanistan",farsi21,farsi,male,2025,afghanistan,15.0
+20,5.0,"tehran, iran",farsi22,farsi,female,2037,iran,15.0
+24,5.0,"shiraz, iran",farsi23,farsi,female,2063,iran,19.0
+43,14.0,"tehran, iran",farsi5,farsi,male,172,iran,29.0
+27,9.0,"tehran, iran",farsi6,farsi,male,173,iran,18.0
+29,11.0,"tehran, iran",farsi7,farsi,male,174,iran,18.0
+29,11.0,"tehran, iran",farsi8,farsi,female,175,iran,18.0
+39,12.0,"tehran, iran",farsi9,farsi,male,176,iran,27.0
+31,10.0,"bordeaux, france",french10,french,male,500,france,21.0
+31,11.0,"limoges, france",french11,french,male,514,france,20.0
+32,12.0,"sens, france",french15,french,male,633,france,20.0
+39,14.0,"fribourg, switzerland",french17,french,male,683,switzerland,25.0
+22,6.0,"washington, dc, usa",french18,french,male,741,usa,16.0
+39,12.0,"grenoble, france",french19,french,male,755,france,27.0
+78,16.0,"ghent, belgium",french22,french,female,822,belgium,62.0
+76,16.0,"ghent, belgium",french23,french,female,823,belgium,60.0
+47,13.0,"mostaganem, algeria",french24,french,male,832,algeria,34.0
+27,11.0,"montreal, quebec, canada",french26,french,female,917,canada,16.0
+38,12.0,"algiers, algeria",french27,french,female,932,algeria,26.0
+35,11.0,"port-au-prince, haiti",french28,french,female,957,haiti,24.0
+54,10.0,"cannes, france",french29,french,female,1021,france,44.0
+37,12.0,"kinshasa, democratic republic of congo",french30,french,male,1023,democratic republic of congo,25.0
+60,16.0,"kabinda, democratic republic of congo",french32,french,male,1080,democratic republic of congo,44.0
+62,10.0,"montreal, quebec, canada",french33,french,male,1127,canada,52.0
+56,16.0,"abidjan, ivory coast",french34,french,male,1160,ivory coast,40.0
+27,10.0,"toulouse, france",french35,french,male,1189,france,17.0
+32,10.0,"reims, france",french36,french,female,1304,france,22.0
+42,14.0,"strasbourg, france",french37,french,male,1306,france,28.0
+28,13.0,"pezenas, france",french39,french,male,1427,france,15.0
+31,14.0,"abidjan, ivory coast",french4,french,female,182,ivory coast,17.0
+44,13.5,"rouen, france",french40,french,female,1429,france,30.5
+66,12.0,"landerneau, brittany, france",french47,french,female,1662,france,54.0
+19,3.0,"douala, cameroon",french48,french,female,1701,cameroon,16.0
+39,12.0,"paris, france",french49,french,male,1729,france,27.0
+36,11.0,"douala, cameroon",french5,french,female,183,cameroon,25.0
+67,14.0,"paris, france",french50,french,female,1751,france,53.0
+56,11.0,"lisbon, portugal",french52,french,female,1813,portugal,45.0
+25,8.0,"vichy, france",french54,french,female,1846,france,17.0
+62,12.0,"settat, morocco",french55,french,female,1889,morocco,50.0
+21,5.0,"douala, cameroon",french56,french,female,1898,cameroon,16.0
+20,5.0,"paris, france",french59,french,female,1938,france,15.0
+41,10.0,"rawalpindi, pakistan",french61,french,female,1998,pakistan,31.0
+37,11.0,"ouagadougou, burkina faso",french63,french,male,2111,burkina faso,26.0
+66,16.0,"ghent, belgium",french8,french,male,186,belgium,50.0
+48,12.0,"dusseldorf, germany",german1,german,female,189,germany,36.0
+29,14.0,"feldkirch, austria",german12,german,female,651,austria,15.0
+54,13.0,"eschen, liechtenstein",german13,german,female,652,liechtenstein,41.0
+30,10.0,"vienna, austria",german14,german,female,675,austria,20.0
+35,11.0,"innsbruck, austria",german15,german,male,676,austria,24.0
+31,11.0,"bremen, germany",german16,german,female,881,germany,20.0
+53,10.0,"frankfurt, germany",german17,german,female,882,germany,43.0
+29,6.0,"bad aussee, austria",german18,german,male,893,austria,23.0
+29,12.0,"bemberg, germany",german2,german,female,190,germany,17.0
+41,16.0,"chur, switzerland",german20,german,male,936,switzerland,25.0
+27,10.0,"niedersachsen, germany",german24,german,male,1383,germany,17.0
+77,24.0,"stuttgart, germany",german26,german,female,1452,germany,53.0
+53,12.0,"coburg, germany",german29,german,female,1619,germany,41.0
+32,8.0,"radstadt, austria",german30,german,female,1681,austria,24.0
+29,12.0,"niedersachsen, germany",german32,german,female,1707,germany,17.0
+39,10.0,"stuttgart, germany",german33,german,male,1877,germany,29.0
+28,11.0,"bochum, germany",german34,german,male,1879,germany,17.0
+51,11.0,"ingolstadt, germany",german35,german,female,1972,germany,40.0
+47,12.0,"halle, germany",german5,german,male,193,germany,35.0
+28,8.0,"vienna, austria",german6,german,male,194,austria,20.0
+25,10.0,"bernburg, germany",german8,german,male,545,germany,15.0
+27,2.0,"nagpur, maharashtra, india",hindi1,hindi,male,207,india,25.0
+20,4.0,"chandigarh, india",hindi11,hindi,male,1437,india,16.0
+25,4.0,"allahabad, india",hindi12,hindi,female,1440,india,21.0
+43,13.0,"jaipur, india",hindi13,hindi,female,1633,india,30.0
+53,12.0,"new delhi, india",hindi14,hindi,male,1697,india,41.0
+23,1.0,"new delhi, india",hindi15,hindi,female,1794,india,22.0
+25,5.0,"new delhi, india",hindi16,hindi,male,1966,india,20.0
+47,3.0,"new delhi, india",hindi17,hindi,female,1988,india,44.0
+21,5.0,"new delhi, india",hindi18,hindi,female,2125,india,16.0
+31,3.0,"hyderabad, india",hindi2,hindi,male,587,india,28.0
+42,5.0,"jalandhar, india",hindi3,hindi,male,593,india,37.0
+64,10.0,"hubballi, karnataka, india",hindi5,hindi,female,845,india,54.0
+27,4.0,"new delhi, india",hindi6,hindi,female,866,india,23.0
+60,5.0,"allahabad, utter pardesh, india",hindi7,hindi,female,867,india,55.0
+31,4.0,"durgapur, west bengal, india",hindi9,hindi,male,1017,india,27.0
+48,12.0,"palermo, italy",italian10,italian,male,627,italy,36.0
+38,14.0,"bellinzona, switzerland",italian12,italian,female,681,switzerland,24.0
+48,15.0,"forli, italy",italian15,italian,male,839,italy,33.0
+40,14.0,"mantua, italy",italian16,italian,male,942,italy,26.0
+46,18.0,"caltanissetta, sicily, italy",italian2,italian,male,218,italy,28.0
+32,15.0,"naples, italy",italian20,italian,male,1123,italy,17.0
+42,20.0,"trento, italy",italian21,italian,male,1124,italy,22.0
+23,6.0,"teramo, italy",italian22,italian,male,1175,italy,17.0
+34,14.0,"cuneo, italy",italian23,italian,female,1177,italy,20.0
+23,6.0,"milan, italy",italian24,italian,female,1406,italy,17.0
+40,3.5,"wiesbaden, germany",italian25,italian,male,1322,germany,36.5
+49,11.0,"siracusa, sicily, italy",italian26,italian,male,1489,italy,38.0
+33,10.0,"milan, italy",italian27,italian,female,1543,italy,23.0
+25,6.0,"rome, italy",italian28,italian,male,1679,italy,19.0
+55,21.0,"florence, italy",italian3,italian,male,219,italy,34.0
+59,23.0,"naples, italy",italian31,italian,female,1976,italy,36.0
+49,14.0,"sardinia, italy",italian32,italian,male,1984,italy,35.0
+78,50.0,"bitonto, italy",italian33,italian,female,2020,italy,28.0
+47,11.0,"cremona, italy",italian4,italian,female,220,italy,36.0
+52,25.0,"vicenza, veneto, italy",italian5,italian,male,440,italy,27.0
+32,15.0,"naples, italy",italian6,italian,female,473,italy,17.0
+24,8.0,"naples, italy",italian7,italian,male,553,italy,16.0
+43,10.0,"bari, italy",italian8,italian,male,589,italy,33.0
+29,13.0,"toyama, japan",japanese11,japanese,female,1046,japan,16.0
+36,12.0,"tokyo, japan",japanese12,japanese,male,1365,japan,24.0
+28,11.0,"gunma, japan",japanese13,japanese,male,1381,japan,17.0
+37,12.0,"akashi, japan",japanese14,japanese,female,1382,japan,25.0
+45,12.0,"osaka, japan",japanese15,japanese,male,1521,japan,33.0
+25,3.0,"clark field, philippines",japanese16,japanese,female,1537,philippines,22.0
+44,13.0,"nara, japan",japanese17,japanese,female,1610,japan,31.0
+52,13.0,"kyoto, japan",japanese18,japanese,female,1626,japan,39.0
+57,13.0,"naha, japan",japanese19,japanese,female,1684,japan,44.0
+27,12.0,"tokyo, japan",japanese2,japanese,female,222,japan,15.0
+53,13.0,"tokyo, japan",japanese21,japanese,female,1847,japan,40.0
+69,12.0,"ashiya, japan",japanese22,japanese,female,1881,japan,57.0
+24,5.0,"kawasaki, japan",japanese23,japanese,male,1942,japan,19.0
+40,13.0,"tokyo, japan",japanese24,japanese,female,1948,japan,27.0
+52,13.0,"kyoto, japan",japanese25,japanese,female,1987,japan,39.0
+44,13.0,"yokosuka, japan",japanese26,japanese,female,1991,japan,31.0
+49,12.0,"kofu, yamanashi prefecture, japan",japanese3,japanese,female,223,japan,37.0
+30,10.0,"kawasaki, japan",japanese6,japanese,female,226,japan,20.0
+29,13.0,"ui jong bu, south korea",korean1,korean,male,238,south korea,16.0
+34,13.0,"kwangju, south korea",korean10,korean,male,483,south korea,21.0
+50,12.0,"pusan, south korea",korean13,korean,female,759,south korea,38.0
+30,13.0,"nonsan, south korea",korean16,korean,female,1006,south korea,17.0
+25,7.0,"seoul, south korea",korean18,korean,male,1117,south korea,18.0
+58,13.0,"inchon, south korea",korean20,korean,female,1126,south korea,45.0
+49,12.0,"seoul, south korea",korean23,korean,female,1196,south korea,37.0
+42,13.0,"seoul, south korea",korean24,korean,male,1370,south korea,29.0
+34,12.0,"anseong, kyong gi, south korea",korean25,korean,female,1386,south korea,22.0
+51,14.0,"haenam, south korea",korean27,korean,male,1624,south korea,37.0
+62,13.0,"seoul, south korea",korean28,korean,female,1663,south korea,49.0
+49,14.0,"seoul, south korea",korean30,korean,female,1690,south korea,35.0
+30,13.0,"seongnam, south korea",korean33,korean,female,1722,south korea,17.0
+48,12.0,"kwangju, south korea",korean35,korean,male,1815,south korea,36.0
+51,12.0,"taegu, south korea",korean36,korean,female,1838,south korea,39.0
+25,10.0,"inchon, south korea",korean38,korean,male,1848,south korea,15.0
+55,14.0,"pusan, south korea",korean39,korean,male,1862,south korea,41.0
+50,12.0,"seoul, south korea",korean41,korean,female,1946,south korea,38.0
+26,3.0,"bayside, new york, usa",korean42,korean,male,1950,usa,23.0
+49,14.0,"inchon, south korea",korean44,korean,male,1971,south korea,35.0
+28,13.0,"inchon, south korea",korean45,korean,male,1982,south korea,15.0
+22,7.0,"an yang, south korea",korean49,korean,female,2098,south korea,15.0
+50,12.0,"seoul, south korea",korean5,korean,female,242,south korea,38.0
+57,13.0,"taejon, south korea",korean50,korean,female,2133,south korea,44.0
+40,12.0,"seoul, south korea",korean52,korean,male,2158,south korea,28.0
+32,10.0,"seoul, south korea",korean7,korean,male,244,south korea,22.0
+39,13.0,"seoul, south korea",korean8,korean,female,452,south korea,26.0
+34,12.0,"taejon, south korea",korean9,korean,male,474,south korea,22.0
+20,5.0,"skopje, macedonia",macedonian16,macedonian,female,1596,macedonia,15.0
+24,6.0,"skopje, macedonia",macedonian17,macedonian,male,1597,macedonia,18.0
+20,5.0,"skopje, macedonia",macedonian18,macedonian,female,1601,macedonia,15.0
+29,11.0,"ohrid, macedonia",macedonian26,macedonian,male,2014,macedonia,18.0
+19,3.0,"beijing, china",mandarin10,mandarin,male,491,china,16.0
+53,13.0,"kao-hsiung, taiwan",mandarin11,mandarin,female,607,taiwan,40.0
+23,1.0,"singapore, singapore",mandarin12,mandarin,male,623,singapore,22.0
+29,13.0,"nantou, taiwan",mandarin13,mandarin,male,685,taiwan,16.0
+49,20.0,"dalian, liaoning, china",mandarin14,mandarin,male,719,china,29.0
+28,11.0,"tainan, taiwan",mandarin15,mandarin,female,746,taiwan,17.0
+32,10.0,"taipei, taiwan",mandarin16,mandarin,male,750,taiwan,22.0
+29,13.0,"taoyuan, taiwan",mandarin18,mandarin,female,872,taiwan,16.0
+38,14.0,"nanjing, china",mandarin2,mandarin,female,257,china,24.0
+40,12.0,"ping tong, taiwan",mandarin20,mandarin,female,931,taiwan,28.0
+38,9.0,"chengdu, sichuan, china",mandarin21,mandarin,female,984,china,29.0
+39,11.0,"haikou, hainan, china",mandarin22,mandarin,female,1019,china,28.0
+46,13.0,"kao-hsiung, taiwan",mandarin23,mandarin,female,1044,taiwan,33.0
+28,13.0,"wuxi, jiangsu, china",mandarin25,mandarin,female,1125,china,15.0
+31,12.0,"emei, sichuan, china",mandarin26,mandarin,female,1141,china,19.0
+45,15.0,"shanghai, china",mandarin28,mandarin,male,1447,china,30.0
+24,4.0,"lanzhou, gansu, china",mandarin29,mandarin,male,1490,china,20.0
+43,10.0,"jilin city, jilin, china",mandarin3,mandarin,male,258,china,33.0
+25,6.0,"beijing, china",mandarin33,mandarin,male,1541,china,19.0
+31,13.0,"shi jia zhuang, hebei, china",mandarin34,mandarin,female,1578,china,18.0
+27,12.0,"yantai, shandong, china",mandarin35,mandarin,female,1579,china,15.0
+32,10.0,"beijing, china",mandarin36,mandarin,female,1580,china,22.0
+32,12.0,"huhot, nei meng gu, china",mandarin37,mandarin,female,1581,china,20.0
+33,12.0,"changsha, hunan, china",mandarin38,mandarin,female,1582,china,21.0
+24,6.0,"shanghai, china",mandarin4,mandarin,female,259,china,18.0
+28,12.0,"chengdu, sichuan, china",mandarin40,mandarin,male,1614,china,16.0
+34,13.0,"songyuan, jilin, china",mandarin41,mandarin,female,1615,china,21.0
+47,16.0,"yanbian, jilin, china",mandarin42,mandarin,female,1616,china,31.0
+42,12.0,"beijing, china",mandarin45,mandarin,female,1631,china,30.0
+43,9.0,"jilin city, jilin, china",mandarin46,mandarin,female,1636,china,34.0
+28,8.0,"beijing, china",mandarin47,mandarin,female,1644,china,20.0
+37,12.0,"pingdingshan, henan, china",mandarin48,mandarin,male,1645,china,25.0
+31,12.0,"beijing, china",mandarin5,mandarin,female,260,china,19.0
+25,9.0,"hsinchu, taiwan",mandarin50,mandarin,male,1788,taiwan,16.0
+25,10.0,"tianjin, hebei, china",mandarin51,mandarin,male,1792,china,15.0
+26,6.0,"shaoxing, zhejiang, china",mandarin52,mandarin,female,1793,china,20.0
+38,13.0,"ningbo, zhejiang, china",mandarin53,mandarin,female,1817,china,25.0
+25,10.0,"chengdu, sichuan, china",mandarin54,mandarin,female,1900,china,15.0
+26,11.0,"baoding, hebei, china",mandarin56,mandarin,female,1910,china,15.0
+23,7.0,"superior, colorado, usa",mandarin58,mandarin,male,2000,usa,16.0
+28,12.0,"le shan, sichuan, china",mandarin6,mandarin,female,261,china,16.0
+41,13.0,"guiyang, guizhou, china",mandarin60,mandarin,female,2109,china,28.0
+33,16.0,"shangrao, jiangxi, china",mandarin61,mandarin,female,2116,china,17.0
+24,7.0,"shanghai, china",mandarin62,mandarin,male,2117,china,17.0
+27,12.0,"jiaozuo, henan, china",mandarin63,mandarin,male,2119,china,15.0
+20,5.0,"tianjin, hebei, china",mandarin65,mandarin,female,2173,china,15.0
+22,5.0,"berkeley, california, usa",mandarin7,mandarin,male,262,usa,17.0
+29,12.0,"jingmen, hubei, china",mandarin8,mandarin,male,430,china,17.0
+38,12.0,"shanghai, china",mandarin9,mandarin,male,451,china,26.0
+30,15.0,"wolanow, poland",polish10,polish,female,842,poland,15.0
+56,10.0,"warsaw, poland",polish11,polish,female,843,poland,46.0
+40,20.0,"warsaw, poland",polish12,polish,male,883,poland,20.0
+97,35.0,"warsaw, poland",polish14,polish,male,1171,poland,62.0
+25,9.0,"ketrzyn, poland",polish15,polish,female,1245,poland,16.0
+33,13.0,"krakow, poland",polish17,polish,female,1453,poland,20.0
+24,7.0,"belchatow, poland",polish19,polish,male,1549,poland,17.0
+53,4.0,"gdansk, poland",polish20,polish,female,1625,poland,49.0
+30,10.0,"kolobrzeg, poland",polish21,polish,male,1651,poland,20.0
+31,12.0,"nowy sacz, poland",polish3,polish,female,279,poland,19.0
+34,16.0,"trzebnica, poland",polish31,polish,female,1918,poland,18.0
+42,14.0,"torun, poland",polish32,polish,male,2062,poland,28.0
+48,12.0,"wroclaw, poland",polish34,polish,female,2085,poland,36.0
+47,15.0,"krakow, poland",polish4,polish,female,280,poland,32.0
+26,8.0,"torun, poland",polish6,polish,female,626,poland,18.0
+37,16.0,"bahia, brazil",portuguese1,portuguese,female,281,brazil,21.0
+40,7.0,"sao paulo, brazil",portuguese11,portuguese,female,495,brazil,33.0
+36,12.0,"lisbon, portugal",portuguese12,portuguese,male,513,portugal,24.0
+25,8.0,"sao paulo, brazil",portuguese14,portuguese,male,558,brazil,17.0
+54,9.0,"sao paulo, brazil",portuguese15,portuguese,male,615,brazil,45.0
+50,12.0,"almada, portugal",portuguese18,portuguese,female,812,portugal,38.0
+32,4.0,"florianopolis, brazil",portuguese19,portuguese,male,829,brazil,28.0
+43,17.0,"luanda, angola",portuguese22,portuguese,female,933,angola,26.0
+29,10.0,"curitiba, brazil",portuguese23,portuguese,female,938,brazil,19.0
+25,10.0,"campo grande, brazil",portuguese26,portuguese,female,1109,brazil,15.0
+33,8.0,"sao paulo, brazil",portuguese27,portuguese,female,1128,brazil,25.0
+36,10.0,"sao paulo, brazil",portuguese28,portuguese,female,1187,brazil,26.0
+28,8.0,"vitoria, brazil",portuguese29,portuguese,male,1284,brazil,20.0
+29,12.0,"volta redonda, brazil",portuguese32,portuguese,male,1305,brazil,17.0
+39,15.0,"uberlandia, brazil",portuguese36,portuguese,female,1438,brazil,24.0
+43,26.0,"sao paulo, brazil",portuguese37,portuguese,female,1454,brazil,17.0
+26,8.0,"sao paulo, brazil",portuguese39,portuguese,female,1553,brazil,18.0
+23,0.0,"london, england, uk",portuguese40,portuguese,male,1773,uk,23.0
+32,8.0,"coronel fabriciano, minas gerais, brazil",portuguese43,portuguese,female,1922,brazil,24.0
+65,11.0,"cascais, portugal",portuguese46,portuguese,male,1965,portugal,54.0
+31,13.0,"lubango, angola",portuguese5,portuguese,male,286,angola,18.0
+44,15.0,"sao paulo, brazil",portuguese6,portuguese,male,287,brazil,29.0
+40,11.0,"vitoria, brazil",portuguese7,portuguese,male,288,brazil,29.0
+26,7.0,"fortaleza, brazil",portuguese8,portuguese,male,289,brazil,19.0
+27,11.0,"bucharest, romania",romanian10,romanian,female,692,romania,16.0
+39,14.0,"buzau, romania",romanian11,romanian,male,693,romania,25.0
+38,12.0,"chisinau, moldova",romanian12,romanian,female,865,moldova,26.0
+46,12.0,"babadag, romanian",romanian13,romanian,male,930,romanian,34.0
+27,8.0,"bucharest, romania",romanian15,romanian,female,980,romania,19.0
+25,9.0,"bucharest, romania",romanian16,romanian,female,996,romania,16.0
+43,28.0,"solotvino, ukraine",romanian18,romanian,female,1448,ukraine,15.0
+62,14.0,"bucharest, romania",romanian2,romanian,male,296,romania,48.0
+34,19.0,"bucharest, romania",romanian20,romanian,female,1599,romania,15.0
+50,32.0,"birtem, romania",romanian3,romanian,male,297,romania,18.0
+47,12.0,"bucharest, romania",romanian5,romanian,female,688,romania,35.0
+35,12.0,"bucharest, romania",romanian6,romanian,male,689,romania,23.0
+33,11.0,"bucharest, romania",romanian7,romanian,male,694,romania,22.0
+47,12.0,"bucharest, romania",romanian8,romanian,male,690,romania,35.0
+20,5.0,"moscow, russia",russian10,russian,female,300,russia,15.0
+54,13.0,"ola magadan, russia",russian11,russian,male,301,russia,41.0
+26,10.0,"moscow, russia",russian13,russian,male,472,russia,16.0
+33,18.0,"pskov, russia",russian14,russian,male,609,russia,15.0
+34,12.0,"ayaguz, kazakhstan",russian15,russian,female,647,kazakhstan,22.0
+35,11.0,"minsk, belarus",russian16,russian,male,648,belarus,24.0
+37,18.0,"pskov, russia",russian17,russian,male,671,russia,19.0
+40,17.0,"zhezkazgan, kazakhstan",russian19,russian,male,834,kazakhstan,23.0
+50,10.0,"izmail, ukraine",russian2,russian,female,302,ukraine,40.0
+46,10.0,"moscow, russia",russian21,russian,female,954,russia,36.0
+30,11.0,"riga, latvia",russian22,russian,male,994,latvia,19.0
+21,5.0,"zaporizhzhya, ukraine",russian23,russian,female,1057,ukraine,16.0
+58,41.0,"orhei, moldova",russian25,russian,female,1096,moldova,17.0
+21,6.0,"chisinau, moldova",russian29,russian,male,1254,moldova,15.0
+35,6.0,"zaporizhzhya, ukraine",russian3,russian,female,303,ukraine,29.0
+21,4.0,"tallinn, estonia",russian31,russian,male,1311,estonia,17.0
+31,14.0,"kiev, ukraine",russian32,russian,female,1314,ukraine,17.0
+31,10.0,"st. petersburg, russia",russian37,russian,male,1523,russia,21.0
+84,18.0,"gomel, belarus",russian38,russian,male,1708,belarus,66.0
+25,5.0,"brooklyn, new york, usa",russian39,russian,female,1750,usa,20.0
+68,38.0,"moscow, russia",russian4,russian,female,304,russia,30.0
+23,8.0,"bishkek, kyrgyzstan",russian40,russian,female,1774,kyrgyzstan,15.0
+30,10.0,"nizhni novgorod, russia",russian41,russian,female,1844,russia,20.0
+24,4.0,"moscow, russia",russian42,russian,female,1924,russia,20.0
+27,8.0,"st. petersburg, russia",russian43,russian,female,1932,russia,19.0
+29,6.0,"penza, russia",russian44,russian,female,1947,russia,23.0
+68,14.0,"st. petersburg, russia",russian45,russian,female,2027,russia,54.0
+24,7.0,"perm, russia",russian46,russian,female,2105,russia,17.0
+26,6.0,"saransk, russia",russian47,russian,female,2107,russia,20.0
+29,6.0,"fergana, uzbekistan",russian48,russian,female,2137,uzbekistan,23.0
+26,11.0,"moscow, russia",russian6,russian,female,306,russia,15.0
+54,13.0,"kiev, ukraine",russian7,russian,female,307,ukraine,41.0
+66,12.0,"moscow, russia",russian8,russian,male,308,russia,54.0
+23,7.0,"moscow, russia",russian9,russian,male,309,russia,16.0
+25,7.0,"belgrade, serbia",serbian10,serbian,male,727,serbia,18.0
+33,9.0,"belgrade, serbia",serbian16,serbian,male,1157,serbia,24.0
+29,10.0,"belgrade, serbia",serbian17,serbian,female,1283,serbia,19.0
+36,15.0,"zrenjanin, serbia, yugoslavia",serbian2,serbian,male,315,yugoslavia,21.0
+25,7.0,"belgrade, serbia",serbian3,serbian,male,530,serbia,18.0
+35,6.0,"belgrade, serbia",serbian5,serbian,male,722,serbia,29.0
+33,12.0,"kraljevo, serbia",serbian6,serbian,male,723,serbia,21.0
+31,7.0,"belgrade, serbia",serbian7,serbian,female,724,serbia,24.0
+44,20.0,"kraljevo, serbia",serbian8,serbian,male,726,serbia,24.0
+31,9.0,"kragujevac, serbia",serbian9,serbian,female,725,serbia,22.0
+39,19.0,"la union, el salvador",spanish101,spanish,female,1574,el salvador,20.0
+46,15.0,"san miguel, el salvador",spanish103,spanish,male,1584,el salvador,31.0
+41,10.0,"jerez de la frontera, spain",spanish105,spanish,female,1613,spain,31.0
+21,5.0,"lima, peru",spanish106,spanish,male,1621,peru,16.0
+36,14.0,"san salvador, el salvador",spanish107,spanish,male,1622,el salvador,22.0
+49,28.0,"lima, peru",spanish11,spanish,female,325,peru,21.0
+55,33.0,"santiago, chile",spanish111,spanish,male,1689,chile,22.0
+58,8.0,"la paz, bolivia",spanish115,spanish,female,1744,bolivia,50.0
+37,6.0,"bogota, colombia",spanish116,spanish,male,1747,colombia,31.0
+46,12.0,"madrid, spain",spanish117,spanish,male,1797,spain,34.0
+48,13.0,"monterrey, mexico",spanish118,spanish,female,1806,mexico,35.0
+40,11.0,"madrid, spain",spanish119,spanish,female,1807,spain,29.0
+25,8.0,"oviedo, spain",spanish12,spanish,male,326,spain,17.0
+25,2.0,"bogota, colombia",spanish120,spanish,female,1823,colombia,23.0
+26,10.0,"toluca, mexico",spanish122,spanish,female,1831,mexico,16.0
+57,14.0,"ilbague, colombia",spanish123,spanish,female,1834,colombia,43.0
+22,5.0,"santa cruz, bolivia",spanish124,spanish,male,1835,bolivia,17.0
+54,5.0,"colon, panama",spanish126,spanish,female,1853,panama,49.0
+34,19.0,"san salvador, el salvador",spanish127,spanish,male,1860,el salvador,15.0
+30,7.0,"lima, peru",spanish128,spanish,female,1869,peru,23.0
+47,30.0,"havana, cuba",spanish129,spanish,female,1874,cuba,17.0
+29,11.0,"duitama, colombia",spanish13,spanish,female,327,colombia,18.0
+56,25.0,"havana, cuba",spanish131,spanish,male,1903,cuba,31.0
+50,15.0,"rio piedras, puerto rico",spanish132,spanish,female,1904,puerto rico,35.0
+38,19.0,"cochabamba, bolivia",spanish133,spanish,male,1916,bolivia,19.0
+41,13.0,"la union, el salvador",spanish134,spanish,female,1921,el salvador,28.0
+41,22.0,"santiago de cuba, cuba",spanish135,spanish,female,1923,cuba,19.0
+49,8.0,"santiago, chile",spanish136,spanish,male,1949,chile,41.0
+34,15.0,"pereira, colombia",spanish14,spanish,female,328,colombia,19.0
+59,8.0,"san salvador, el salvador",spanish142,spanish,female,2016,el salvador,51.0
+45,6.0,"oviedo, spain",spanish143,spanish,male,2026,spain,39.0
+37,21.0,"florencia, zacatecas, mexico",spanish145,spanish,female,2052,mexico,16.0
+54,4.0,"san juan, puerto rico",spanish15,spanish,male,329,puerto rico,50.0
+51,25.0,"barcelona, spain",spanish152,spanish,male,2100,spain,26.0
+30,4.0,"montevideo, uruguay",spanish154,spanish,male,2127,uruguay,26.0
+27,9.0,"lima, peru",spanish155,spanish,male,2130,peru,18.0
+65,8.0,"montevideo, uruguay",spanish156,spanish,female,2142,uruguay,57.0
+19,3.0,"mexico city, mexico",spanish157,spanish,female,2144,mexico,16.0
+54,37.0,"santurce, puerto rico",spanish158,spanish,female,2148,puerto rico,17.0
+44,25.0,"buenos aires, argentina",spanish16,spanish,male,330,argentina,19.0
+56,32.0,"leon, nicaragua",spanish161,spanish,female,2156,nicaragua,24.0
+28,5.0,"mexico city, mexico",spanish162,spanish,male,2169,mexico,23.0
+45,30.0,"managua, nicaragua",spanish20,spanish,male,335,nicaragua,15.0
+32,11.0,"madrid, spain",spanish22,spanish,female,337,spain,21.0
+22,7.0,"santiago, chile",spanish23,spanish,male,338,chile,15.0
+27,5.0,"mexico city, mexico",spanish24,spanish,male,339,mexico,22.0
+34,14.0,"zaragoza, spain",spanish27,spanish,male,342,spain,20.0
+31,7.0,"guayaquil, ecuador",spanish31,spanish,female,449,ecuador,24.0
+28,11.0,"cartagena, spain",spanish34,spanish,male,476,spain,17.0
+50,17.0,"tegucigalpa, honduras",spanish37,spanish,female,575,honduras,33.0
+53,13.0,"tegucigalpa, honduras",spanish38,spanish,male,576,honduras,40.0
+20,3.0,"pamplona, spain",spanish39,spanish,male,614,spain,17.0
+25,6.0,"bonao, dominican republic",spanish41,spanish,male,706,dominican republic,19.0
+80,18.0,"bogota, colombia",spanish42,spanish,female,712,colombia,62.0
+43,16.0,"santiago-dr, dominican republic",spanish43,spanish,male,714,dominican republic,27.0
+37,4.0,"la romana, dominican republic",spanish44,spanish,female,716,dominican republic,33.0
+47,12.0,"santiago-dr, dominican republic",spanish45,spanish,female,715,dominican republic,35.0
+33,14.0,"santo domingo, dominican republic",spanish46,spanish,male,717,dominican republic,19.0
+21,6.0,"bilbao, spain",spanish48,spanish,male,731,spain,15.0
+31,6.0,"tandil, argentina",spanish49,spanish,male,732,argentina,25.0
+52,13.0,"bogota, colombia",spanish5,spanish,female,346,colombia,39.0
+33,6.0,"bogota, colombia",spanish53,spanish,male,797,colombia,27.0
+36,9.0,"tandil, argentina",spanish55,spanish,male,810,argentina,27.0
+33,11.0,"montevideo, uruguay",spanish57,spanish,male,886,uruguay,22.0
+31,5.0,"mayaguez, puerto rico",spanish59,spanish,female,908,puerto rico,26.0
+67,39.0,"azuaga, spain",spanish61,spanish,male,924,spain,28.0
+63,19.0,"buenos aires, argentina",spanish62,spanish,female,925,argentina,44.0
+32,10.0,"la coruna, spain",spanish63,spanish,female,959,spain,22.0
+28,12.0,"medellin, colombia",spanish64,spanish,male,962,colombia,16.0
+32,12.0,"barranquilla, colombia",spanish65,spanish,male,1069,colombia,20.0
+30,12.0,"san salvador, el salvador",spanish66,spanish,male,1077,el salvador,18.0
+48,14.0,"santa marta, colombia",spanish67,spanish,female,1111,colombia,34.0
+30,10.0,"bogota, colombia",spanish70,spanish,female,1230,colombia,20.0
+24,6.0,"rosario, argentina",spanish71,spanish,male,1231,argentina,18.0
+20,5.0,"miami, florida, usa",spanish72,spanish,female,1238,usa,15.0
+44,14.0,"zaragoza, spain",spanish74,spanish,male,1249,spain,30.0
+28,5.0,"lima, peru",spanish75,spanish,female,1273,peru,23.0
+27,10.0,"la paz, bolivia",spanish76,spanish,male,1290,bolivia,17.0
+45,13.0,"jalisco, mexico",spanish77,spanish,male,1301,mexico,32.0
+55,5.0,"lima, peru",spanish78,spanish,female,1338,peru,50.0
+70,22.0,"lamas, peru",spanish79,spanish,female,1344,peru,48.0
+63,7.0,"san juan, puerto rico",spanish81,spanish,female,1347,puerto rico,56.0
+49,14.0,"la paz, bolivia",spanish82,spanish,male,1396,bolivia,35.0
+48,14.0,"la paz, bolivia",spanish83,spanish,male,1397,bolivia,34.0
+19,4.0,"buenos aires, argentina",spanish84,spanish,female,1398,argentina,15.0
+44,6.0,"buenos aires, argentina",spanish85,spanish,female,1399,argentina,38.0
+23,4.0,"buenos aires, argentina",spanish86,spanish,male,1400,argentina,19.0
+55,9.0,"la paz, bolivia",spanish87,spanish,male,1401,bolivia,46.0
+53,25.0,"la paz, bolivia",spanish88,spanish,male,1402,bolivia,28.0
+23,3.0,"caracas, venezuela",spanish90,spanish,female,1431,venezuela,20.0
+54,9.0,"cardenas, cuba",spanish92,spanish,male,1435,cuba,45.0
+29,12.0,"arequipa, peru",spanish96,spanish,female,1449,peru,17.0
+52,19.0,"bogota, colombia",spanish97,spanish,female,1450,colombia,33.0
+20,4.0,"lima, peru",spanish99,spanish,female,1506,peru,16.0
+37,15.0,"kuningan, indonesia",sundanese1,sundanese,female,457,indonesia,22.0
+56,11.0,"solna, sweden",swedish1,swedish,female,351,sweden,45.0
+36,10.0,"espoo, finland",swedish11,swedish,female,1195,finland,26.0
+23,7.0,"malmo, sweden",swedish12,swedish,male,1441,sweden,16.0
+28,10.0,"umea, sweden",swedish13,swedish,female,1445,sweden,18.0
+39,11.0,"goteborg, sweden",swedish16,swedish,female,1836,sweden,28.0
+42,8.0,"lulea, sweden",swedish18,swedish,male,1992,sweden,34.0
+50,12.0,"ekenas, finland",swedish19,swedish,male,2011,finland,38.0
+31,7.0,"karlstad, sweden",swedish20,swedish,male,2065,sweden,24.0
+26,7.0,"goteborg, sweden",swedish6,swedish,male,620,sweden,19.0
+39,6.0,"manila, philippines",tagalog10,tagalog,female,1812,,33.0
+59,11.0,"manila, philippines",tagalog11,tagalog,female,1837,,48.0
+33,5.0,"legaspi, philippines",tagalog12,tagalog,female,1851,,28.0
+76,7.0,"manila, philippines",tagalog13,tagalog,female,1954,,69.0
+47,17.0,"legaspi, philippines",tagalog14,tagalog,female,2002,philippines,30.0
+35,1.0,"manila, philippines",tagalog15,tagalog,female,2108,philippines,34.0
+20,4.5,"san pedro laguna, philippines",tagalog16,tagalog,male,2128,philippines,15.5
+21,6.0,"alexandria, virginia, usa",tagalog17,tagalog,male,2146,philippines,15.0
+77,8.0,"manila, philippines",tagalog18,tagalog,female,2147,philippines,69.0
+19,1.0,"honiara, guadalcanal, solomon islands",tagalog3,tagalog,female,361,philippines,18.0
+48,7.0,"san fernando, la union, philippines",tagalog4,tagalog,female,470,philippines,41.0
+42,5.0,"tarlac city, philippines",tagalog5,tagalog,female,677,usa,37.0
+20,4.0,"quezon city, philippines",tagalog6,tagalog,male,805,philippines,16.0
+60,6.0,"manila, philippines",tagalog7,tagalog,male,1364,philippines,54.0
+62,7.0,"cabanatuan city, philippines",tagalog8,tagalog,female,1627,solomon islands,55.0
+48,7.0,"manila, philippines",tagalog9,tagalog,male,1764,philippines,41.0
+27,11.0,"ankara, turkey",turkish10,turkish,male,578,eritrea,16.0
+18,3.0,"istanbul, turkey",turkish13,turkish,female,686,botswana,15.0
+23,6.0,"istanbul, turkey",turkish14,turkish,female,735,turkey,17.0
+31,6.0,"ankara, turkey",turkish17,turkish,male,763,turkey,25.0
+27,9.0,"stuttgart, germany",turkish18,turkish,male,926,turkey,18.0
+23,6.0,"istanbul, turkey",turkish22,turkish,male,1282,germany,17.0
+37,11.0,"adana, turkey",turkish23,turkish,female,1291,turkey,26.0
+31,12.0,"istanbul, turkey",turkish24,turkish,male,1329,turkey,19.0
+45,22.0,"sivas, turkey",turkish26,turkish,male,1704,turkey,23.0
+24,4.0,"istanbul, turkey",turkish28,turkish,female,1772,turkey,20.0
+27,12.0,"adana, turkey",turkish3,turkish,male,383,turkey,15.0
+30,11.0,"istanbul, turkey",turkish5,turkish,female,385,turkey,19.0
+37,17.0,"sivas, turkey",turkish8,turkish,male,478,tajikistan,20.0
+29,12.0,"can tho, vietnam",vietnamese1,vietnamese,male,395,china,17.0
+57,18.0,"quang nam, vietnam",vietnamese10,vietnamese,female,1192,uzbekistan,39.0
+67,15.0,"quang nam, vietnam",vietnamese11,vietnamese,male,1201,afghanistan,52.0
+24,9.0,"can tho, vietnam",vietnamese12,vietnamese,female,1529,uzbekistan,15.0
+23,6.0,"hanoi, vietnam",vietnamese13,vietnamese,male,1562,uzbekistan,17.0
+51,20.0,"ho chi minh city, vietnam",vietnamese14,vietnamese,male,1698,vietnam,31.0
+52,17.0,"long xuyen, vietnam",vietnamese16,vietnamese,male,1850,vietnam,35.0
+33,11.0,"ho chi minh city, vietnam",vietnamese17,vietnamese,female,1940,vietnam,22.0
+46,25.0,"haiphong, vietnam",vietnamese20,vietnamese,female,2042,vietnam,21.0
+23,8.0,"bien hoa, vietnam",vietnamese22,vietnamese,male,2151,vietnam,15.0
+28,9.0,"vinh long, vietnam",vietnamese3,vietnamese,female,397,vietnam,19.0
+41,12.0,"ho chi minh city, vietnam",vietnamese6,vietnamese,male,400,vietnam,29.0
+69,12.0,"ninh binh, vietnam",vietnamese8,vietnamese,male,447,vietnam,57.0
