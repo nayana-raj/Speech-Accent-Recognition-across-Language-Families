@@ -1,12 +1,12 @@
 '''
-The raw data is cleaned so as to get rid of missing values and omit speakers who have been speaking English for more than 15 years, 
+The raw data is cleaned in order to get rid of missing values and omit speakers who have been speaking English for more than 15 years, 
 so as to preserve L1 effects on L2
 '''
 __author__ = '{Nayana Raj}'
 
 #import libs
 import csv, numpy, pandas as pd 
-df = pd.read_csv('C:\\Users\\Nayana_2\\Desktop\\MA Semester III\\Analyzing Large Speech Corpora\\MLproject\Speech Accent Archive\\raw_data.csv')
+df = pd.read_csv('raw_data.csv')
 
 #appending a new row 
 df['l2_acq'] = '' 
