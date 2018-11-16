@@ -1,4 +1,7 @@
-
+'''
+The raw data is cleaned so as to get rid of missing values and omit speakers who have been speaking English for more than 15 years, 
+so as to preserve L1 effects on L2
+'''
 __author__ = '{Nayana Raj}'
 
 #import libs
