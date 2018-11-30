@@ -5,5 +5,4 @@
 * Running the audio files through a Voice Activity Detection algorithm, in order to eliminate silence periods longer than ~300ms.
 * Audio files split into segments of 5s each using a Praat script.
 * Downsampled trimmed files to 8000 Hz using Praat.
-* Downsampling the audio files to a value of 8000 Hz.
 * MFCC features were extracted using Python.
