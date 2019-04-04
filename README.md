@@ -1,6 +1,5 @@
 # Speech-Accent-Recognition-across-Language-Families
-This repo contains the data frames and code for the final project for the course Analyzing Large Speech Corpora with Machine Learning, Fall 2018.
-
+This repo contains the data frames and code for the final project for the courses Analyzing Large Speech Corpora with Machine Learning, Fall 2018 and ANNs and Deep Learning for NLP, Spring 2019.
 
 Current, state-of-the-art Automatic Speech Recognition systems still face difficulties in terms of interacting with non-native speakers with accents. The existing literature on the same approaches the problem by training classifiers to identify accents with various acoustic and prosodic features like pitch periods, sub-band energies and formant frequencies as input.
 
